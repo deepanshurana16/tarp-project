@@ -1,0 +1,21 @@
+*{
+  overflow-x: hidden;
+}
+
+
+
+input {
+  border: 2px solid rgb(45, 45, 45); /* Changes the border color to red */
+}
+.font{
+  font-family: "Jersey 10 Charted", sans-serif;
+}
+
+#box1{
+  background-color: rgba(232, 221, 221, 0.724);
+}
+.authBack{
+  background-image: url("hostelbg.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
